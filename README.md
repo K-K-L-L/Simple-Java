@@ -1,5 +1,8 @@
 # Simple-Java
 Simple java!!
+
+**(The file needs to be named Main.sjava) and if the .exe file failed give it another try!**
+
 ok so when I learned java I wanted to type fast instead of typing this junk:
 ```
 public class Main {
