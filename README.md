@@ -14,16 +14,16 @@ p("Simple Java!");
 ```
 
 
-pf("This is my string: %s", noicestring); :
-```
-System.out.printf("This is my string: %s", noicestring);
-```
-
 ## Examples:
 p("Simple Java!"); :
 ```
 System.out.println("Simple Java!");
 ```
+pf("This is my string: %s", noicestring); :
+```
+System.out.printf("This is my string: %s", noicestring);
+```
+
 i MyInt = 75;
 ```
 int MyInt = 75;
